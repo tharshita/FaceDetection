@@ -10,6 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func importImage(_ sender: Any) {
+    }
+    @IBOutlet weak var myTextView: UITextView!
+    @IBOutlet weak var myImageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
