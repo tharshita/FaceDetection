@@ -15,6 +15,7 @@
 		EEDF3AAB23D338CA003DD8B4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EEDF3AA923D338CA003DD8B4 /* LaunchScreen.storyboard */; };
 		EEDF3AB623D338CA003DD8B4 /* FaceDetectionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDF3AB523D338CA003DD8B4 /* FaceDetectionTests.swift */; };
 		EEDF3AC123D338CA003DD8B4 /* FaceDetectionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEDF3AC023D338CA003DD8B4 /* FaceDetectionUITests.swift */; };
+		EEDF3AD523D34ADF003DD8B4 /* IMG_4.JPG in Resources */ = {isa = PBXBuildFile; fileRef = EEDF3AD123D34ADF003DD8B4 /* IMG_4.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EEDF3ABC23D338CA003DD8B4 /* FaceDetectionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FaceDetectionUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEDF3AC023D338CA003DD8B4 /* FaceDetectionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceDetectionUITests.swift; sourceTree = "<group>"; };
 		EEDF3AC223D338CA003DD8B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EEDF3AD123D34ADF003DD8B4 /* IMG_4.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_4.JPG; path = ../../IMG_4.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				EEDF3AA223D338C9003DD8B4 /* ViewController.swift */,
 				EEDF3AA423D338C9003DD8B4 /* Main.storyboard */,
 				EEDF3AA723D338CA003DD8B4 /* Assets.xcassets */,
+				EEDF3AD123D34ADF003DD8B4 /* IMG_4.JPG */,
 				EEDF3AA923D338CA003DD8B4 /* LaunchScreen.storyboard */,
 				EEDF3AAC23D338CA003DD8B4 /* Info.plist */,
 			);
@@ -235,6 +238,7 @@
 				EEDF3AAB23D338CA003DD8B4 /* LaunchScreen.storyboard in Resources */,
 				EEDF3AA823D338CA003DD8B4 /* Assets.xcassets in Resources */,
 				EEDF3AA623D338C9003DD8B4 /* Main.storyboard in Resources */,
+				EEDF3AD523D34ADF003DD8B4 /* IMG_4.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
